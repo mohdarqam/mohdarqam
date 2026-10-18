@@ -1,6 +1,4 @@
 ![Certifications: DP-600 and Databricks Associate Data Engineering](cert-banner.png)
-## Hi, I'm Mohammad Arqam
-
 Data Engineer and Analyst based in County Dublin, Ireland. I build metadata-driven
 data pipelines and medallion lakehouses, and turn raw source data into clean, tested,
 business-ready tables.
